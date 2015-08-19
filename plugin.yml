@@ -1,0 +1,7 @@
+name: CombinedSlots
+main: basprohop\CombinedSlots
+version: 1.0.0
+api: [1.10.0]
+load: STARTUP
+author: basprohop
+description: Combines the slots of your servers and displays it as one!

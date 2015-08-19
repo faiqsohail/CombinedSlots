@@ -1,0 +1,11 @@
+# Timeout in seconds to query the servers if it takes longer to query the plugin
+# will assume the server is down.
+timeout: 3
+
+# List of your servers where the player list will be extracted from.
+# Query must be enabled, format host:port
+
+#servers:
+#    - localhost:19133
+#    - localhost:19134
+servers: []
